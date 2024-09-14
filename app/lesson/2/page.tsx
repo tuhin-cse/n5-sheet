@@ -96,5 +96,191 @@ const words = [
         jp: 'めいし',
         en: 'Business card',
         bn: 'বিজনেস কার্ড'
+    },
+    {
+        pr: 'Ka-Do',
+        jp: 'かど',
+        en: 'Card',
+        bn: 'কার্ড'
+    },
+    {
+        en: 'Telephone Card',
+        bn: 'টেলিফোন কার্ড',
+        jp: 'テレホンカード',
+        pr: 'Terehonka-do',
+    },
+    {
+        en: 'Pencil',
+        bn: 'পেন্সিল',
+        jp: 'えんぴつ',
+        pr: 'Enpitsu'
+    },
+    {
+        name: 'Ball Pen',
+        bn: 'বল পেন',
+        jp: 'ボールペン',
+        pr: 'Bo-rupen',
+    },
+    {
+        name: 'Sharp Pencil',
+        bn: 'শার্প পেন্সিল',
+        jp: 'シャープペンシル',
+        pr: 'Sha-pupenshiru',
+    },
+    {
+        name: 'Key',
+        bn: 'চাবি',
+        jp: 'かぎ',
+        pr: 'Kagi',
+    },
+    {
+        name: "Bag",
+        bn: 'ব্যাগ',
+        jp: 'かばん',
+        pr: 'Kaban',
+    },
+    {
+        name: 'Cassette / Tape',
+        bn: 'ক্যাসেট / টেপ',
+        pr: 'Kyaseto / Tepe',
+        jp: 'カセット / テープ',
+    },
+    {
+        name: 'Tape Recorder',
+        bn: 'টেপ রেকর্ডার',
+        jp: 'テープレコーダー',
+        pr: 'Tepe Rekoda-',
+    },
+    {
+        pr: 'TeLeBi',
+        jp: 'テレビ',
+        en: 'Television',
+        bn: 'টেলিভিশন'
+    },
+    {
+        pr: 'RaJiO',
+        jp: 'ラジオ',
+        en: 'Radio',
+        bn: 'রেডিও'
+    },
+    {
+        en: 'Camera',
+        bn: 'ক্যামেরা',
+        jp: 'カメラ',
+        pr: 'Kamera'
+    },
+    {
+        en: 'Computer',
+        bn: 'কম্পিউটার',
+        jp: 'コンピュータ-',
+        pr: 'Konpyu-ta-'
+    },
+    {
+        jp: 'じどうしゃ',
+        pr: 'Jidousha',
+        en: 'Car / Automobile',
+        bn: 'গাড়ি / অটোমোবাইল'
+    },
+    {
+        en: 'Table',
+        bn: 'টেবিল',
+        jp: 'つくえ',
+        pr: 'Tsukue'
+    },
+    {
+        en: 'Chair',
+        bn: 'চেয়ার',
+        jp: 'いす',
+        pr: 'Isu'
+    },
+    {
+        en: "Chocolate",
+        bn: 'চকলেট',
+        jp: 'チョコレート',
+        pr: 'Chokore-to'
+    },
+    {
+        en: 'Coffee',
+        bn: 'কফি',
+        jp: 'コーヒ-',
+        pr: 'Ko-hi-'
+    },
+    {
+        en: 'English',
+        bn: 'ইংরেজি',
+        jp: 'えいご',
+        pr: 'Eigo'
+    },
+    {
+        en: 'Japanese',
+        bn: 'জাপানি',
+        jp: 'にほんご',
+        pr: 'Nihongo'
+    },
+    {
+        en: 'What',
+        bn: 'কি',
+        jp: 'なに',
+        pr: 'Nani'
+    },
+    {
+        jp: 'そう',
+        pr: 'Sou',
+        bn: 'তাই',
+        en: 'Yes'
+    },
+    {
+        bn: 'ভুল / আপনি ভুল ভাবছেন',
+        jp: 'ちがいます',
+        pr: 'Chigaimasu',
+        en: 'No / You are mistaken'
+    },
+    {
+        jp: 'そうですか',
+        pr: 'Sou des ka',
+        en: 'Is that so?',
+        bn: "তাই নাকি",
+    },
+    {
+        pr: 'AnoU',
+        jp: 'あのう',
+        en: 'Excuse me',
+        bn: 'মাফ করবেন',
+    },
+    {
+        jp: 'ほんのきもちです',
+        pr: 'Hon no kimochi des',
+        en: 'It is just a feeling',
+        bn: 'এটা কেবল একটা অনুভূতি'
+    },
+    {
+        jp: 'どうぞ',
+        pr: 'Douzo',
+        en: 'Please / Here you are',
+        bn: 'দয়া করে / এই নেন'
+    },
+    {
+        jp: 'どうも',
+        pr: 'Doumo',
+        en: 'Thank you',
+        bn: 'ধন্যবাদ'
+    },
+    {
+        pr: 'Arigatou Gozaimasu',
+        jp: 'ありがとうございます',
+        en: 'Thank you very much',
+        bn: 'আপনাকে অনেক ধন্যবাদ'
+    },
+    {
+        jp: 'これからおせわになります',
+        pr: 'Korekara osewa ni narimas',
+        bn: 'এখন থেকে আপনার সহায্য কামনা করছি',
+        en: 'I am counting on your help from now on'
+    },
+    {
+        jp: 'こちらこそよろしく',
+        pr: 'Kochira koso yoroshiku',
+        en: 'Nice to meet you',
+        bn: 'আপনার সাথে পরিচিত হতে খুব খুশি'
     }
 ]
