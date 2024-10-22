@@ -13,7 +13,41 @@ const Home = () => {
                 href="/lesson/2">
                 Lesson 2
             </Link>
-
+            <Link
+                className="btn-primary"
+                href="/lesson/3">
+                Lesson 3
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/4">
+                Lesson 4
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/5">
+                Lesson 5
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/6">
+                Lesson 6
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/7">
+                Lesson 7
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/8">
+                Lesson 8
+            </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/9">
+                Lesson 9
+            </Link>
         </div>
     )
 }
