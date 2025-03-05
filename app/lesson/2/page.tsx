@@ -128,6 +128,15 @@ const words = [
         pr: 'Sha-pupenshiru',
     },
     {
+        name: "Mechanical Pencil",
+        bn: 'মেকানিক্যাল পেন্সিল',
+        jp: 'シャープペンシル',
+        pr: 'Sha-pu pencil',
+    },
+
+
+
+    {
         name: 'Key',
         bn: 'চাবি',
         jp: 'かぎ',
@@ -176,10 +185,10 @@ const words = [
         pr: 'Konpyu-ta-'
     },
     {
-        jp: 'じどうしゃ',
-        pr: 'Jidousha',
-        en: 'Car / Automobile',
-        bn: 'গাড়ি / অটোমোবাইল'
+        en: 'Car / Vehicle',
+        bn: 'গাড়ি / যান',
+        jp: 'くるま',
+        pr: 'Kuruma'
     },
     {
         en: 'Table',
@@ -204,6 +213,12 @@ const words = [
         bn: 'কফি',
         jp: 'コーヒ-',
         pr: 'Ko-hi-'
+    },
+    {
+        en: 'Souvenir/Present',
+        bn: 'সুভার্ন / উপহার',
+        jp: 'おみやげ',
+        pr: 'Omiyage'
     },
     {
         en: 'English',

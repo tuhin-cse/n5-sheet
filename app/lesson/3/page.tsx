@@ -128,6 +128,12 @@ const words = [
         "bn": "এস্কেলেটর"
     },
     {
+        "en": "Vending machine",
+        "jp": "じどうはんばいき",
+        "pr": "Jidouhanbaiki",
+        "bn": "ভেন্ডিং মেশিন"
+    },
+    {
         "pr": "Kuni",
         "jp": "くに",
         "en": "Country",
