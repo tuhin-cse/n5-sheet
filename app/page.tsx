@@ -48,6 +48,11 @@ const Home = () => {
                 href="/lesson/9">
                 Lesson 9
             </Link>
+            <Link
+                className="btn-primary"
+                href="/lesson/12">
+                Lesson 12
+            </Link>
         </div>
     )
 }
